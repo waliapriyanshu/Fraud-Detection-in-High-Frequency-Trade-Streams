@@ -6,17 +6,18 @@ This repository contains an end-to-end workflow for detecting fraudulent transac
 
 ## 📂 Project Structure
 
+```bash
 Fraud-Detection-in-High-Frequency-Trade-Streams/
-│
 ├── fraud_detection_eda.py                  # Exploratory Data Analysis for IEEE Fraud dataset
 ├── fraud_model_ensemble_comparison.py      # Compare ensemble models for fraud detection
-├── /images/eda_plots/                      # Folder for EDA visualizations
-├── /images/model_results/                  # Folder for model comparison charts
+├── images/
+│   ├── eda_plots/                          # Folder for EDA visualizations
+│   └── model_results/                      # Folder for model comparison charts
 └── README.md                               # Project documentation
 
 ---
 
-## 🚀 Features
+## Features
 
 - Data cleaning and preprocessing for IEEE-CIS Fraud Detection dataset  
 - Comprehensive EDA with feature correlation and trend analysis  
@@ -25,7 +26,7 @@ Fraud-Detection-in-High-Frequency-Trade-Streams/
 
 ---
 
-## 📊 Results
+## Results
 
 - Insights on the most impactful features for detecting fraud  
 - Performance comparison across ensemble models  
@@ -38,7 +39,7 @@ Example image embeds (once uploaded):
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 To install dependencies, run:
 
@@ -48,7 +49,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧠 Usage
+## Usage
 
 1. Clone the repository  
    ```bash
@@ -68,7 +69,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📸 Visualizations
+## Visualizations
 
 All generated plots and charts are stored in:
 
@@ -77,16 +78,15 @@ All generated plots and charts are stored in:
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 This project uses the **IEEE-CIS Fraud Detection dataset** (available on [Kaggle](https://www.kaggle.com/c/ieee-fraud-detection)).
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Waliaji (Priyanshu Walia)**  
-GitHub: [@waliapriyanshu](https://github.com/waliapriyanshu)
+**Priyanshu Walia, Rashika Ranjan, Sanskriti Mahore, Ryansh Arora**
 
 ---
 
