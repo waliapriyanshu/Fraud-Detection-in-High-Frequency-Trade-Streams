@@ -25,11 +25,11 @@ The dataset is based on the **IEEE-CIS Fraud Detection dataset**, consisting of 
 
 Key feature statistics:
 
-| Feature | Mean | Std | Min | Max | Missing % |
-|----------|------|-----|-----|-----|-----------|
-| TransactionID | 3,282,270 | 170,474 | 2,987,000 | 3,577,539 | 0.0 |
-| TransactionDT | 7,372,311 | 4,617,224 | 86,400 | 15,811,130 | 0.0 |
-| TransactionAmt | 135.03 | 239.16 | 0.25 | 31,937.39 | 0.0 |
+| Feature | Mean | Std | Min | Max |
+|----------|------|-----|-----|-----|
+| TransactionID | 3,282,270 | 170,474 | 2,987,000 | 3,577,539 |
+| TransactionDT | 7,372,311 | 4,617,224 | 86,400 | 15,811,130 |
+| TransactionAmt | 135.03 | 239.16 | 0.25 | 31,937.39 |
 
 ---
 
