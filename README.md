@@ -31,7 +31,6 @@ Key feature statistics:
 | isFraud | 0.035 | 0.184 | 0 | 1 | 0.0 |
 | TransactionDT | 7,372,311 | 4,617,224 | 86,400 | 15,811,130 | 0.0 |
 | TransactionAmt | 135.03 | 239.16 | 0.25 | 31,937.39 | 0.0 |
-| ProductCD | - | - | - | - | 0.0 |
 
 ---
 
